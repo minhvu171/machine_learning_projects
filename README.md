@@ -1,3 +1,7 @@
+The "Fine-Tuning DeepSeek-R1 for Logical Reasoning Task" is a project I completed as part of the Neural Language Models course.
+
+
+
 The "Learning Deep Convolutional Networks for Demosaicing" is a project I completed as part of the Advanced Image Processing course.
 
 
